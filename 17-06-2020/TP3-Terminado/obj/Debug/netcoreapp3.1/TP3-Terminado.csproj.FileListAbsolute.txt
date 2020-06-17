@@ -1,0 +1,13 @@
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3-Terminado\bin\Debug\netcoreapp3.1\TP3-Terminado.exe
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3-Terminado\bin\Debug\netcoreapp3.1\TP3-Terminado.deps.json
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3-Terminado\bin\Debug\netcoreapp3.1\TP3-Terminado.runtimeconfig.json
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3-Terminado\bin\Debug\netcoreapp3.1\TP3-Terminado.runtimeconfig.dev.json
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3-Terminado\bin\Debug\netcoreapp3.1\TP3-Terminado.dll
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3-Terminado\bin\Debug\netcoreapp3.1\TP3-Terminado.pdb
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3-Terminado\obj\Debug\netcoreapp3.1\TP3-Terminado.csprojAssemblyReference.cache
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3-Terminado\obj\Debug\netcoreapp3.1\TP3-Terminado.csproj.CoreCompileInputs.cache
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3-Terminado\obj\Debug\netcoreapp3.1\TP3-Terminado.AssemblyInfoInputs.cache
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3-Terminado\obj\Debug\netcoreapp3.1\TP3-Terminado.AssemblyInfo.cs
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3-Terminado\obj\Debug\netcoreapp3.1\TP3-Terminado.dll
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3-Terminado\obj\Debug\netcoreapp3.1\TP3-Terminado.pdb
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3-Terminado\obj\Debug\netcoreapp3.1\TP3-Terminado.genruntimeconfig.cache

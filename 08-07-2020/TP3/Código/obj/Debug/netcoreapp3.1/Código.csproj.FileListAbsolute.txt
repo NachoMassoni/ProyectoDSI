@@ -1,0 +1,13 @@
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3\Código\obj\Debug\netcoreapp3.1\Código.csprojAssemblyReference.cache
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3\Código\obj\Debug\netcoreapp3.1\Código.csproj.CoreCompileInputs.cache
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3\Código\obj\Debug\netcoreapp3.1\Código.AssemblyInfoInputs.cache
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3\Código\obj\Debug\netcoreapp3.1\Código.AssemblyInfo.cs
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3\Código\bin\Debug\netcoreapp3.1\Código.exe
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3\Código\bin\Debug\netcoreapp3.1\Código.deps.json
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3\Código\bin\Debug\netcoreapp3.1\Código.runtimeconfig.json
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3\Código\bin\Debug\netcoreapp3.1\Código.runtimeconfig.dev.json
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3\Código\bin\Debug\netcoreapp3.1\Código.dll
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3\Código\bin\Debug\netcoreapp3.1\Código.pdb
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3\Código\obj\Debug\netcoreapp3.1\Código.dll
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3\Código\obj\Debug\netcoreapp3.1\Código.pdb
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\Parte Práctica\TP3\Código\obj\Debug\netcoreapp3.1\Código.genruntimeconfig.cache

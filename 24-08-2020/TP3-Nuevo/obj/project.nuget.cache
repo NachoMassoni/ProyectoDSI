@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zO7t/e1Z0ECN2UiDTYTQ2/lCofxY1MnMuGJ06FQy8dyaRsoBaBVNX5yUvas7/D6bTYOny2otcJPY/zAojS/O0g==",
+  "success": true,
+  "projectFilePath": "C:\\IGNACIO\\Trabajos Prácticos\\UTN\\3° Año\\Diseño de Sistemas\\Parte Práctica\\TP3-Nuevo\\TP3-Nuevo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ignac\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

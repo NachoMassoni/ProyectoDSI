@@ -1,0 +1,170 @@
+{
+  "Alumnos": 
+  [
+    {
+      "Nombre": "Ignacio",
+      
+      "Apellido": "Massoni",
+      
+      "Dni": 42161429.0,
+      
+      "Email": "nachomassoni@gmail.com",
+      
+      "Telefono": 3564506065.0
+    }
+  ],
+  
+  "Cursos": 
+  [
+    {
+      "Nombre": "Matemática Discreta",
+      
+      "Descripcion": "Se analizarán las principales temáticas de la presente materia"
+    },
+
+    {
+      "Nombre": "Matemática Superior",
+      
+      "Descripcion": "Se analizarán las principales temáticas de la presente materia"
+    }
+  ],
+  
+  "CursosDictados": 
+  [
+    {
+      "Curso": 
+      
+      {
+        "Nombre": "Matemática Discreta",
+        
+        "Descripcion": "Se analizarán las principales temáticas de la presente materia"
+      },
+
+      "HorariosCurso": 
+      [
+        {
+          "Dia": "Jueves",
+          
+          "HoraInicio": "2020-07-24T18:00:00",
+          
+          "HoraFin": "2020-07-24T20:00:00"
+        }
+      ],
+
+      "AulaId": 3,
+
+      "FechaLimiteInscripcion": "2020-06-11T00:00:00",
+      
+      "CupoMinimo": 2,
+      
+      "CupoMaximo": 5,
+      
+      "Vigente": true,
+      
+      "Profesores": 
+      [
+        {
+          "Nombre": "María",
+          
+          "Apellido": "Becerra",
+          
+          "Telefono": 3564123156.0,
+          
+          "Dni": 42160428.0,
+          
+          "Email": "mariabecerra@gmail.com"
+        }
+      ]
+    }
+  ],
+
+  "Inscripciones": 
+  [
+    {
+      "Alumno": {
+        "Nombre": "Ignacio",
+        
+        "Apellido": "Massoni",
+        
+        "Dni": 42161429.0,
+        
+        "Email": "nachomassoni@gmail.com",
+        
+        "Telefono": 3564506065.0
+      },
+
+      "DictadoCurso": 
+      {
+        "Curso": 
+        {
+          "Nombre": "Matemática Superior",
+          
+          "Descripcion": "Se analizarán las principales temáticas de la presente materia"
+        },
+
+        "HorariosCurso": 
+        [
+          {
+            "Dia": "Viernes",
+            
+            "HoraInicio": "2020-07-24T18:00:00",
+            
+            "HoraFin": "2020-07-24T20:00:00"
+          }
+        ],
+
+        "AulaId": 2,
+        
+        "FechaLimiteInscripcion": "2020-06-11T00:00:00",
+        
+        "CupoMinimo": 2,
+        
+        "CupoMaximo": 5,
+        
+        "Vigente": true,
+        
+        "Profesores": 
+        [
+          {
+            "Nombre": "María",
+            
+            "Apellido": "Becerra",
+            
+            "Telefono": 3564123156.0,
+            
+            "Dni": 42160428.0,
+            
+            "Email": "mariabecerra@gmail.com"
+          }
+        ]
+      }
+    }
+  ],
+
+  "Profesores": 
+  [
+    {
+      "Nombre": "María",
+      
+      "Apellido": "Becerra",
+      
+      "Telefono": 3564123156.0,
+      
+      "Dni": 42160428.0,
+      
+      "Email": "mariabecerra@gmail.com"
+    },
+
+    {
+      "Nombre": "Eduardo",
+      
+      "Apellido": "Massoni",
+      
+      "Telefono": 3564617071.0,
+      
+      "Dni": 20156123.0,
+      
+      "Email": "edumassoni@gmail.com"
+    }
+  ]
+}

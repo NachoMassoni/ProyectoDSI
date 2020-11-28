@@ -1,0 +1,44 @@
+ESTRUCTURA JSON:
+
+[
+	{
+		"IdProducto": ,
+		"Nombre": ,
+		"Marca": ,
+		"Precio": ,
+		"Descripcion": ,
+		"Stock": ,
+		"Imagen": ,
+		"NombreCategoría": ,
+		"NombreTipoProducto": ,
+	},
+	...
+]
+
+EJEMPLO:
+
+[
+	{
+		"IdProducto": "5487",
+		"Nombre": "Calculadora Casio fx-85MS",
+		"Marca": "Casio",
+		"Precio": "19394.99",
+		"Descripcion": "bla bla bla",
+		"Stock": "23",
+		"Imagen": "https://www.casio-intl.com/product/image/1425458815389/",
+		"NombreCategoría": "Tecnología",
+		"NombreTipoProducto": "Calculadoras"
+	},
+
+	{
+		"IdProducto": "3248",
+		"Nombre": "Celular Xiaomi Note 8",
+		"Marca": "Xiaomi",
+		"Precio": "38000.00",
+		"Descripcion": "bla bla bla",
+		"Stock": "7",
+		"Imagen": "https://d2pg6pehp4f12r.cloudfront.net/wp-content/uploads/2019/10/note-8-1.jpg",
+		"NombreCategoría": "Tecnología",
+		"NombreTipoProducto": "Celulares"
+	}
+]

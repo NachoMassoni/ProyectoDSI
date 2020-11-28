@@ -1,0 +1,21 @@
+INFORMACIÓN IMPORTANTE
+
+
+TRABAJO PREVIO
+
+- En el directorio Trabajo Previo se encuentra el desarrollo de la Parte Teórica en conjunto con Archivos Varios correspondiente a la empresa OPEN SHOP, anteriormente a la última entrega. 
+
+- Los archivos allí plasmados, corresponden al desarrollo de la empresa OPEN SHOP a lo largo del año.
+
+
+TRABAJO FINAL
+
+- En el directorio Trabajo Final se encuentra el desarrollo de la Parte Teórica en conjunto con Archivos Varios correspondiente a la empresa OPEN SHOP, en la última entrega.
+
+- La Parte Práctica representa la codificación del sector Catálogo de la empresa OPEN SHOP, en conjunto con Estructura JSON de ejemplo.
+
+- Para la codificación del sector Catálogo de la empresa OPEN SHOP, deben ser utilizados los siguientes datos
+	
+	- Usuario: nacho.massoni
+
+	- Contraseña: 1999nacho

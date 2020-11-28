@@ -1,0 +1,4 @@
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\OPEN SHOP\Trabajo Final\Parte Práctica\TestUnitarios\obj\Debug\netcoreapp3.1\TestUnitarios.csprojAssemblyReference.cache
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\OPEN SHOP\Trabajo Final\Parte Práctica\TestUnitarios\obj\Debug\netcoreapp3.1\TestUnitarios.AssemblyInfoInputs.cache
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\OPEN SHOP\Trabajo Final\Parte Práctica\TestUnitarios\obj\Debug\netcoreapp3.1\TestUnitarios.AssemblyInfo.cs
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\OPEN SHOP\Trabajo Final\Parte Práctica\TestUnitarios\obj\Debug\netcoreapp3.1\TestUnitarios.csproj.CoreCompileInputs.cache

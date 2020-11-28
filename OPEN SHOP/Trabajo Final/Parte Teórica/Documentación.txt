@@ -1,0 +1,96 @@
+# TP Integrador - Catálogo
+
+**¡Bienvenidos a todos!**
+
+En el presente archivo brindaremos información necesaria y de gran importancia acerca del TP Integrador de **DSI**, pero más precisamente de nuestro grupo, el grupo de **Catálogo**.  
+
+## Integrantes 🙋‍♀️💁‍♂️
+
+Los integrantes del área **Catálogo** son:
+
+* Calloni, Antonella.
+* Escudero, Carlos.
+* Massoni, Ignacio.
+* Pellarolo, Matías.
+
+## Profesores 👨‍💻👨‍💻
+
+Los profesores encargados de la materia **DSI** son:
+
+* Ferreyra, Juan Pablo.
+* Pioli, Pablo.
+
+## Comenzando 🚀
+
+El presente trabajo práctico tiene como objetivo principal simular la existencia y el funcionamiento de una empresa de venta online denominada **Open Shop**.
+
+**Open Shop** esta constituida por distintas áreas encargadas de funcionalidades diversas, pero que en todo momento se encontrarán interrelacionadas unas con otras. Las distintas áreas intervinientes son:
+
+* Catálogo
+* Carrito
+* Cobranza
+* Despacho
+
+## Interiorizando 🔍
+
+Cada área realiza diversas tareas y actividades. Su principal objetivo es la satisfacción de las demandas de los usuarios y la correcta realización de su labor. 
+
+Es de gran importancia que las distintas áreas estén relacionadas entre sí. Para ello serán utilizadas **Estructuras JSON**, archivos emitidos y recibidos por las áreas y compuestos por datos e información de gran relevancia para las mismas.
+
+Particularmente, nuestro grupo representa al sector o área denominada **Catálogo**.
+
+**Catálogo** es el sector encargado de diversas funcionalidades, entre ellas:
+
+* Permitir al Vendedor iniciar sesión.
+* Permitir al Vendedor agregar un artículo para venta en conjunto con precio, características y existencia.
+* Permitir al Vendedor modificar diversas características de un artículo para venta.
+* Permitir al Vendedor eliminar un artículo para venta en conjunto con precio, características y existencia.
+* Permitir transferir listado de productos para venta a grupo **Carrito**. 
+* Permitir obtener listado de productos vendidos de **Despacho** para actualización constante de stock.
+
+## Explayándonos 📊
+
+Una vez detalladas y formuladas las diversas funcionalidades, es el momento de plasmarlas en papel.
+
+El grupo en conjunto ha creado diagramas que estructurarán al proyecto y darán pie a la pronta codificación de las tareas detalladas con anterioridad.
+
+Los **Diagramas de Clases** nos permitieron identificar las distintas entidades existentes y los atributos constituyentes de cada una, como así también, las relaciones entre las mismas.
+
+## Ejecutando las pruebas ⚙️
+
+La formulación de los diagramas nos dio pie para comenzar con la programación y codificación de las funcionalidades descriptas como requerimientos básicos.
+
+En este momento, cada integrante del grupo se debió individualizar y, como consecuente, plasmar lo integrado en el diagrama y ejecutar diversas pruebas, sólo. 
+
+Algunos compañeros utilizaron [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), mientras que otros han utilizado [Java](https://docs.oracle.com/en/java/).
+
+## Estructura JSON 📦
+
+Como hemos dicho anteriormente, las distintas áreas están relacionadas entre sí. 
+
+Ante la necesidad de transferir datos e información, surge la implementación de [Estructuras JSON](https://www.json.org/json-es.html#:~:text=JSON%20est%C3%A1%20constitu%C3%ADdo%20por%20dos,Una%20lista%20ordenada%20de%20valores.). Estos archivos nos brindan la posibilidad de comunicarnos entre los distintos sectores y brindar la información necesaria en el momento correcto.
+
+El área **Catálogo** ha emitido [Estructuras JSON](https://www.json.org/json-es.html#:~:text=JSON%20est%C3%A1%20constitu%C3%ADdo%20por%20dos,Una%20lista%20ordenada%20de%20valores.) hacia el sector de **Carrito**, brindándole información de gran interés acerca de los distintos artículos actualizados en venta. La constante actualización de estos datos fue realizada gracias a las [Estructuras JSON](https://www.json.org/json-es.html#:~:text=JSON%20est%C3%A1%20constitu%C3%ADdo%20por%20dos,Una%20lista%20ordenada%20de%20valores.) recibidas por el sector **Despacho**, quien nos brindó información relevante en relación a los artículos vendidos.
+
+## Programas y Aplicaciones 💻
+
+Como hemos explicado anteriormente, algunos compañeros utilizaron [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), mientras que otros han utilizado [Java](https://docs.oracle.com/en/java/).
+
+Por otra parte, los editores de código fuente utilizados para la programación del proyecto fueron [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019) y [Visual Studio Code](https://code.visualstudio.com/docs).
+
+## Wiki 📖
+
+En las direcciones de GitHub que se encuentra a continuación, podrán observar el proceso de programación y ejecutar las diversas líneas de código creadas por cada participante del grupo **Catálogo**, como así también, encontrar más información y detalles acerca de lo explicado y plasmado en este archivo.
+
+
+[GitHub](https://github.com/AntoCalloni/OpenShop)
+
+[Antonella Calloni](https://github.com/AntoCalloni)
+
+[Carlos Escudero](https://github.com/escuderocarlos)
+
+[Ignacio Massoni](https://github.com/NachoMassoni)
+
+[Matías Pellarolo](https://github.com/matiaspellarolo)
+
+---

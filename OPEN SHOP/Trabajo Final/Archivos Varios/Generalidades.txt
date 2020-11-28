@@ -1,0 +1,10 @@
+TP INTEGRADOR
+
+- GitHub propio 
+	- Incorporación de archivo Word con generalidades
+	- Incorporación de documentación correspondiente a grupo Catálogo
+	- Estructura JSON correspondiente a grupo Catálogo
+	- Tests Unitarios y de Aceptación
+	- Carpeta constituyente por codificación de TP Integrador
+	- Ejemplo Estructura JSON
+	- Imágenes referentes a Diagrama de Clases

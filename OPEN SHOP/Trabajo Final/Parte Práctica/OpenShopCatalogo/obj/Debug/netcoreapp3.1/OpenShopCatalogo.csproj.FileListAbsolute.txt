@@ -1,0 +1,30 @@
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\TP Integrador\Parte Práctica\OpenShopCatalogo\bin\Debug\netcoreapp3.1\OpenShopCatalogo.exe
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\TP Integrador\Parte Práctica\OpenShopCatalogo\bin\Debug\netcoreapp3.1\OpenShopCatalogo.deps.json
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\TP Integrador\Parte Práctica\OpenShopCatalogo\bin\Debug\netcoreapp3.1\OpenShopCatalogo.runtimeconfig.json
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\TP Integrador\Parte Práctica\OpenShopCatalogo\bin\Debug\netcoreapp3.1\OpenShopCatalogo.runtimeconfig.dev.json
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\TP Integrador\Parte Práctica\OpenShopCatalogo\bin\Debug\netcoreapp3.1\OpenShopCatalogo.dll
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\TP Integrador\Parte Práctica\OpenShopCatalogo\bin\Debug\netcoreapp3.1\OpenShopCatalogo.pdb
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\TP Integrador\Parte Práctica\OpenShopCatalogo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\TP Integrador\Parte Práctica\OpenShopCatalogo\obj\Debug\netcoreapp3.1\OpenShopCatalogo.csprojAssemblyReference.cache
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\TP Integrador\Parte Práctica\OpenShopCatalogo\obj\Debug\netcoreapp3.1\OpenShopCatalogo.AssemblyInfoInputs.cache
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\TP Integrador\Parte Práctica\OpenShopCatalogo\obj\Debug\netcoreapp3.1\OpenShopCatalogo.AssemblyInfo.cs
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\TP Integrador\Parte Práctica\OpenShopCatalogo\obj\Debug\netcoreapp3.1\OpenShopCatalogo.csproj.CoreCompileInputs.cache
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\TP Integrador\Parte Práctica\OpenShopCatalogo\obj\Debug\netcoreapp3.1\OpenShopCatalogo.csproj.CopyComplete
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\TP Integrador\Parte Práctica\OpenShopCatalogo\obj\Debug\netcoreapp3.1\OpenShopCatalogo.dll
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\TP Integrador\Parte Práctica\OpenShopCatalogo\obj\Debug\netcoreapp3.1\OpenShopCatalogo.pdb
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\TP Integrador\Parte Práctica\OpenShopCatalogo\obj\Debug\netcoreapp3.1\OpenShopCatalogo.genruntimeconfig.cache
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\OPEN SHOP\Trabajo Final\Parte Práctica\OpenShopCatalogo\bin\Debug\netcoreapp3.1\OpenShopCatalogo.exe
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\OPEN SHOP\Trabajo Final\Parte Práctica\OpenShopCatalogo\bin\Debug\netcoreapp3.1\OpenShopCatalogo.deps.json
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\OPEN SHOP\Trabajo Final\Parte Práctica\OpenShopCatalogo\bin\Debug\netcoreapp3.1\OpenShopCatalogo.runtimeconfig.json
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\OPEN SHOP\Trabajo Final\Parte Práctica\OpenShopCatalogo\bin\Debug\netcoreapp3.1\OpenShopCatalogo.runtimeconfig.dev.json
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\OPEN SHOP\Trabajo Final\Parte Práctica\OpenShopCatalogo\bin\Debug\netcoreapp3.1\OpenShopCatalogo.dll
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\OPEN SHOP\Trabajo Final\Parte Práctica\OpenShopCatalogo\bin\Debug\netcoreapp3.1\OpenShopCatalogo.pdb
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\OPEN SHOP\Trabajo Final\Parte Práctica\OpenShopCatalogo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\OPEN SHOP\Trabajo Final\Parte Práctica\OpenShopCatalogo\obj\Debug\netcoreapp3.1\OpenShopCatalogo.csprojAssemblyReference.cache
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\OPEN SHOP\Trabajo Final\Parte Práctica\OpenShopCatalogo\obj\Debug\netcoreapp3.1\OpenShopCatalogo.AssemblyInfoInputs.cache
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\OPEN SHOP\Trabajo Final\Parte Práctica\OpenShopCatalogo\obj\Debug\netcoreapp3.1\OpenShopCatalogo.AssemblyInfo.cs
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\OPEN SHOP\Trabajo Final\Parte Práctica\OpenShopCatalogo\obj\Debug\netcoreapp3.1\OpenShopCatalogo.csproj.CoreCompileInputs.cache
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\OPEN SHOP\Trabajo Final\Parte Práctica\OpenShopCatalogo\obj\Debug\netcoreapp3.1\OpenShopCatalogo.csproj.CopyComplete
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\OPEN SHOP\Trabajo Final\Parte Práctica\OpenShopCatalogo\obj\Debug\netcoreapp3.1\OpenShopCatalogo.dll
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\OPEN SHOP\Trabajo Final\Parte Práctica\OpenShopCatalogo\obj\Debug\netcoreapp3.1\OpenShopCatalogo.pdb
+C:\IGNACIO\Trabajos Prácticos\UTN\3° Año\Diseño de Sistemas\OPEN SHOP\Trabajo Final\Parte Práctica\OpenShopCatalogo\obj\Debug\netcoreapp3.1\OpenShopCatalogo.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dNWA3+R4BvhKaMNn6FntxxhX2qe4HxoLF04XcH9kxKhRauO56YB5jMQDXUMw9PZESLNYQDlxqL3ZcGWNwTAbGA==",
+  "success": true,
+  "projectFilePath": "C:\\IGNACIO\\Trabajos Prácticos\\UTN\\3° Año\\Diseño de Sistemas\\OPEN SHOP\\Trabajo Final\\Parte Práctica\\OpenShopCatalogo\\OpenShopCatalogo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ignac\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

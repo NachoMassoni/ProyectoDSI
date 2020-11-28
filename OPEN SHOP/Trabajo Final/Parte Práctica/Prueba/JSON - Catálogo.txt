@@ -1,0 +1,138 @@
+[
+  {
+    "IdArticulo": 0,
+    "Nombre": "81WB00S6AR",
+    "Marca": "Lenovo",
+    "Precio": 59.999,
+    "Descripcion": "Computadora Lenovo IdeaPad 320S 4K",
+    "Stock": 15,
+    "Imagen": "computadora.jpg",
+    "TipoProducto": {
+      "Id": 0,
+      "Nombre": "Computadoras",
+      "Categoria": {
+        "Id": 0,
+        "Nombre": "Tecnologia"
+      }
+    }
+  },
+  {
+    "IdArticulo": 1,
+    "Nombre": "KEY235BOARD",
+    "Marca": "Redragon",
+    "Precio": 10000.0,
+    "Descripcion": "Teclado Redragon Mecánico Retroiluminado",
+    "Stock": 50,
+    "Imagen": "teclado.jpg",
+    "TipoProducto": {
+      "Id": 1,
+      "Nombre": "Teclados",
+      "Categoria": {
+        "Id": 0,
+        "Nombre": "Tecnologia"
+      }
+    }
+  },
+  {
+    "IdArticulo": 2,
+    "Nombre": "GUI145TAR",
+    "Marca": "Gibson",
+    "Precio": 50000.0,
+    "Descripcion": "Guitarra Eléctrica Gibson",
+    "Stock": 20,
+    "Imagen": "guitarra.jpg",
+    "TipoProducto": {
+      "Id": 2,
+      "Nombre": "Guitarras",
+      "Categoria": {
+        "Id": 1,
+        "Nombre": "Musica"
+      }
+    }
+  },
+  {
+    "IdArticulo": 3,
+    "Nombre": "FID365DLE",
+    "Marca": "Fender",
+    "Precio": 55000.0,
+    "Descripcion": "Violín Finder Medium",
+    "Stock": 25,
+    "Imagen": "violin.jpg",
+    "TipoProducto": {
+      "Id": 3,
+      "Nombre": "Violines",
+      "Categoria": {
+        "Id": 1,
+        "Nombre": "Musica"
+      }
+    }
+  },
+  {
+    "IdArticulo": 4,
+    "Nombre": "VET89CH",
+    "Marca": "Campagnola",
+    "Precio": 100.0,
+    "Descripcion": "Arvejas Campagnola 300gr",
+    "Stock": 120,
+    "Imagen": "arvejas.jpg",
+    "TipoProducto": {
+      "Id": 4,
+      "Nombre": "Enlatados",
+      "Categoria": {
+        "Id": 3,
+        "Nombre": "Bebidas"
+      }
+    }
+  },
+  {
+    "IdArticulo": 5,
+    "Nombre": "POT456ATO",
+    "Marca": "McCain",
+    "Precio": 150.0,
+    "Descripcion": "Papas Noisette McCain 500gr",
+    "Stock": 150,
+    "Imagen": "papasnoisette.jpg",
+    "TipoProducto": {
+      "Id": 5,
+      "Nombre": "Empaquetados",
+      "Categoria": {
+        "Id": 3,
+        "Nombre": "Bebidas"
+      }
+    }
+  },
+  {
+    "IdArticulo": 6,
+    "Nombre": "ALCO741HOL",
+    "Marca": "Branca",
+    "Precio": 300.0,
+    "Descripcion": "Fernet Branca 2l",
+    "Stock": 200,
+    "Imagen": "fernet.jpg",
+    "TipoProducto": {
+      "Id": 6,
+      "Nombre": "Bebidas Alcoholicas",
+      "Categoria": {
+        "Id": 2,
+        "Nombre": "Alimentos"
+      }
+    }
+  },
+  {
+    "IdArticulo": 7,
+    "Nombre": "JUI653CE",
+    "Marca": "TANG",
+    "Precio": 15.0,
+    "Descripcion": "Jugo TANG sabor Naranja Mango",
+    "Stock": 500,
+    "Imagen": "jugo.jpg",
+    "TipoProducto": {
+      "Id": 7,
+      "Nombre": "Bebidas No Alcoholicas",
+      "Categoria": {
+        "Id": 2,
+        "Nombre": "Alimentos"
+      }
+    }
+  }
+]
